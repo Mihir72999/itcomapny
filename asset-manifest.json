@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/itcomapny/static/css/main.073c9b0a.css",
+    "main.js": "/itcomapny/static/js/main.09613b43.js",
+    "static/js/787.cc31f29e.chunk.js": "/itcomapny/static/js/787.cc31f29e.chunk.js",
+    "index.html": "/itcomapny/index.html",
+    "main.073c9b0a.css.map": "/itcomapny/static/css/main.073c9b0a.css.map",
+    "main.09613b43.js.map": "/itcomapny/static/js/main.09613b43.js.map",
+    "787.cc31f29e.chunk.js.map": "/itcomapny/static/js/787.cc31f29e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.09613b43.js"
+  ]
+}
